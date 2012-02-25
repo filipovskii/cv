@@ -85,7 +85,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
         <tr>
           <td>SQL</td>
           <td>advanced</td>
-          <td><td/>
+          <td>&nbsp;<td/>
         </tr>
         <tr>
           <td>C#</td>
@@ -95,7 +95,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
         <tr>
           <td>Python</td>
           <td>beginner</td>
-          <td></td>
+          <td>&nbsp;</td>
         </tr>
       </tbody>
     </table>
