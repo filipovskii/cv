@@ -48,7 +48,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
 
       I was also able to design and implement (using **ANTLR**) a simple DSL for quering analyzed data.
 
-    2. Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in Java with 29West products.
+    2. Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with 29West products.
 
 *   `02.2010 - 07.2011`
 
