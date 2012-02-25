@@ -46,7 +46,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
       -   providing REST API (**Jersey**, **Guice**, **Gson**)
       -   looking good with **twitter's bootstrap** and functional with **backbone.js**, **require.js** and others.
 
-      I was also able to design and implement (using **ANTLR**) a simple DSL for quering analyzed data.
+      I was also able to design and implement (using **ANTLR**) a simple DSL for querying analyzed data.
 
     2. Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with 29West products.
 
