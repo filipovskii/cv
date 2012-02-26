@@ -42,7 +42,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
     Developer at *Algo inc.* (trading software development)
 
     1. Took part in development of *Trade Monitor*, FIX protocol data analysis tool. My part was written mostly in **Java** and **Coffeescript** and was responsible for:
-      -   indexing and quering data (**NIO** and **elasticsearch**),
+      -   indexing and querying data (**NIO** and **elasticsearch**),
       -   providing REST API (**Jersey**, **Guice**, **Gson**)
       -   looking good with **twitter's bootstrap** and functional with **backbone.js**, **require.js** and others.
 
@@ -108,9 +108,9 @@ To utilize and extend my knowledge, experience and interest in software engineer
 *   TDD
 *   Object-oriented analysis and design
 *   Functional programming
-*   Multithreaded programming
+*   Multithreading
 
 ### Links
 
 *   [Github](https://github.com/filipovskii)
-*   [User attributes in python](http://habrahabr.ru/blogs/python/137415/) (article in russian by me)
+*   [User attributes in python](http://habrahabr.ru/blogs/python/137415/) (article in Russian by me)
