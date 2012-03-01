@@ -15,26 +15,13 @@ To utilize and extend my knowledge, experience and interest in software engineer
 
 *   `10.2011-12.2011`
 
-    Stanford University online class "Introduction to Databases"
+    Online courses, offered by Stanford University:
+    
+    -   "Introduction to Databases" (Score: 296 of 323)
 
-    Statement of Accomplishment
-
-    Score: 296 of 323
-
-*   `10.2011-12.2011`
-
-    Stanford University online class "Machine Learning"
-
-    Statement of Accomplishment
-
-    Score: Review Questions: 78 of 80, Programming Exercises: 800 of 800
-
-
-*   `10.2011-12.2011`
-
-    Stanford University online class "Introduction to Artificial Intelligence"
-
-    Statement of Accomplishment
+    -   "Machine Learning" (Questions: 78 of 80, Exercises: 800 of 800)
+    
+    -   "Introduction to Artificial Intelligence" (Basic track)
 
 ### Work experience
 *   `08.2011 - present`
