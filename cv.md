@@ -44,7 +44,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
     1. Took part in development of *Trade Monitor*, FIX protocol data analysis tool. My part was written mostly in **Java** and **Coffeescript** and was responsible for:
       -   indexing and querying data (**NIO** and **elasticsearch**)
       -   providing REST API (**Jersey**, **Guice**, **Gson**)
-      -   looking good with **bootstrap by twitter** and functional with **backbone.js**, **require.js** and others.
+      -   looking good (**bootstrap by twitter**) and functional (**backbone.js**, **require.js** and others).
 
       I was also able to design and implement (using **ANTLR**) a simple DSL for querying analyzed data.
 
