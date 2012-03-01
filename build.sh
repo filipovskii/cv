@@ -6,3 +6,5 @@ echo "</head><body style='background-color:whiteSmoke'>" >> $b
 echo "<div class='container'>" >> $b
 markdown cv.md >> $b
 echo "</div></body></html>" >> $b
+
+pandoc cv.md -o _build/cv.pdf
