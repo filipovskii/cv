@@ -48,7 +48,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
 
       I was also able to design and implement (using **ANTLR**) a simple DSL for querying analyzed data.
 
-    2. Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with 29West products.
+    2. Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with **29West** products.
 
 *   `02.2010 - 07.2011`
 
@@ -57,7 +57,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
     1.   As a part of small team, designed and implemented *[Internet-banking system](http://www.e-life.ru/)* with lots of functions, including online payments, card and account management, internal messaging system.
     Project was written in **C#** (**ASP MVC** and **WCF**) and **Javascript**. Application interacts with many data stores (**MSSQL, MySQL, Oracle, Sybase**) using different protocols (**SOAP, RPC, LINQ**).
 
-    2.  Created a tool for managing payment receivers. Used Java with **Tapestry** framework and Sybase database.
+    2.  Created a tool for managing payment receivers. Used **Java** with **Tapestry** framework and Sybase database.
 
 ###   Programming languages
 
