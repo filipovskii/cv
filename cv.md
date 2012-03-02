@@ -5,7 +5,7 @@
 To utilize and extend my knowledge, experience and interest in software engineering, in a positive, flexible and comfortable work environment.
 
 ### Education
-*   `2004-2010`
+*   `2004 - 2010`
 
     Moscow Technical University of  Communications and Informatics
 
@@ -13,15 +13,15 @@ To utilize and extend my knowledge, experience and interest in software engineer
 
     Faculty: Radio communication, Broadcasting, Television
 
-*   `10.2011-12.2011`
+*   `10.2011 - 12.2011`
 
     Online courses, offered by Stanford University:
     
-    -   "Introduction to Databases" (Score: 296 of 323)
+    -   ["Introduction to Databases"](http://www.db-class.org/) (Score: 296 of 323)
 
-    -   "Machine Learning" (Questions: 78 of 80, Exercises: 800 of 800)
+    -   ["Machine Learning"](http://www.ml-class.org/) (Questions: 78 of 80, Exercises: 800 of 800)
     
-    -   "Introduction to Artificial Intelligence" (Basic track)
+    -   ["Introduction to Artificial Intelligence"](http://www.ai-class.com/) (Basic track)
 
 ### Work experience
 *   `08.2011 - present`
