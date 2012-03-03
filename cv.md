@@ -7,9 +7,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
 ### Education
 *   `2004 - 2010`
 
-    Moscow Technical University of  Communications and Informatics
-
-    Engineer degree
+    Moscow Technical University of  Communications and Informatics (Engineer degree)
 
     Faculty: Radio communication, Broadcasting, Television
 
@@ -28,23 +26,21 @@ To utilize and extend my knowledge, experience and interest in software engineer
 
     Developer at *Algo inc.* (trading software development)
 
-    1. Took part in development of *Trade Monitor*, FIX protocol data analysis tool. My part was written mostly in **Java** and **Coffeescript** and was responsible for:
-      -   indexing and querying data (**NIO** and **elasticsearch**)
-      -   providing REST API (**Jersey**, **Guice**, **Gson**)
-      -   looking good (**bootstrap by twitter**) and functional (**backbone.js**, **require.js** and others).
+    -   Took part in development of *Trade Monitor*, FIX protocol data analysis tool. Used **Java** and **Coffeescript**. Among other things, I was able to design and implement a simple DSL for querying analyzed data.
 
-      I was also able to design and implement (using **ANTLR**) a simple DSL for querying analyzed data.
+    -   Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with **29West** products.
 
-    2. Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with **29West** products.
+    **Toolset:** NIO, Elasticsearch, Jersey, Guice, Gson, ANTLR, Bootstrap by Twitter, Backbone.js, Require.js and others.
 
 *   `02.2010 - 07.2011`
 
     Team leader at *Probusinessbank*
 
-    1.   As a part of small team, designed and implemented *[Internet-banking system](http://www.e-life.ru/)* with lots of functions, including online payments, card and account management, internal messaging system.
-    Project was written in **C#** (**ASP MVC** and **WCF**) and **Javascript**. Application interacts with many data stores (**MSSQL, MySQL, Oracle, Sybase**) using different protocols (**SOAP, RPC, LINQ**).
+    -   As a part of small team, designed and implemented *[Internet-banking system](http://www.e-life.ru/)* with lots of functions, including online payments, card and account management, internal messaging system.
 
-    2.  Created a tool for managing payment receivers. Used **Java** with **Tapestry** framework and Sybase database.
+    -  Created a tool for managing payment receivers. Used **Java** with **Tapestry** framework and Sybase database.
+
+    **Toolset:**  ASP MVC, WCF, MSSQL, MySQL, Oracle, Sybase, SOAP, RPC, LINQ
 
 ###   Programming languages
 
@@ -56,15 +52,7 @@ SQL         advanced
 C#          advanced  ASP MVC, WCF, LINQ
 Python      beginner
 
-### Favorite concepts
-
-*   Simplicity
-*   TDD
-*   Object-oriented analysis and design
-*   Functional programming
-*   Multithreading
-
 ### Links
 
 *   [Github](https://github.com/filipovskii)
-*   [User attributes in python](http://habrahabr.ru/blogs/python/137415/) (article in Russian by me)
+*   Article ["User attributes in python"](http://habrahabr.ru/blogs/python/137415/) (in Russian)
