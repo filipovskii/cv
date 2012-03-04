@@ -1,23 +1,21 @@
-### *Andrey Salomatin* Software Engineer
-##### [filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Invitation%20for%20an%20interview)
+### Andrey Salomatin *Software Engineer*
+##### 
+[+7 926 274 62 57](callto:+79262746257) |
+[skype: filipovskii_off](callto:filipovskii_off) |
+[filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Invitation%20for%20an%20interview) |
+[github](https://github.com/filipovskii)
 
 ### Career objective
 To utilize and extend my knowledge, experience and interest in software engineering, in a positive, flexible and comfortable work environment.
 
 ### Education
-*   `2004 - 2010`
+*   `2004 - 2010` Moscow Technical University of  Communications and Informatics 
 
-    Moscow Technical University of  Communications and Informatics (Engineer degree)
+    Engineer degree. Faculty: Radio communication, Broadcasting, Television
 
-    Faculty: Radio communication, Broadcasting, Television
-
-*   `10.2011 - 12.2011`
-
-    Online courses, offered by Stanford University:
+*   `10.2011 - 12.2011` Online courses, offered by Stanford University:
     
-    -   ["Introduction to Databases"](http://www.db-class.org/) (Score: 296 of 323)
-    -   ["Machine Learning"](http://www.ml-class.org/) (Questions: 78 of 80, Exercises: 800 of 800)
-    -   ["Introduction to Artificial Intelligence"](http://www.ai-class.com/) (Basic track)
+    ["Introduction to Databases"](http://www.db-class.org/),  ["Machine Learning"](http://www.ml-class.org/), ["Introduction to Artificial Intelligence"](http://www.ai-class.com/)
 
 ### Work experience
 *   `08.2011 - present`
@@ -27,7 +25,7 @@ To utilize and extend my knowledge, experience and interest in software engineer
     -   Took part in development of *Trade Monitor*, FIX protocol data analysis tool. Used **Java** and **Coffeescript**. Among other things, I was able to design and implement a simple DSL for querying analyzed data.
     -   Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with **29West** products.
 
-    **Toolset:** NIO, Elasticsearch, Jersey, Guice, Gson, ANTLR, Bootstrap by Twitter, Backbone.js, Require.js and others.
+    **Toolset:** NIO, Elasticsearch, Jersey, Guice, Gson, ANTLR, Bootstrap by Twitter, Backbone.js, Require.js
 
 *   `02.2010 - 07.2011`
     Team leader at *Probusinessbank*
@@ -46,8 +44,3 @@ Javascript  advanced  backbone.js, require.js, jQuery, Coffeescript
 SQL         advanced    
 C#          advanced  ASP MVC, WCF, LINQ
 Python      beginner
-
-### Links
-
-*   [Github](https://github.com/filipovskii)
-*   Article ["User attributes in python"](http://habrahabr.ru/blogs/python/137415/) (in Russian)
