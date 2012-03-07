@@ -8,11 +8,14 @@
 \ifxetex
   \usepackage{fontspec,xltxtra,xunicode}
   \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \usepackage[russian]{babel}
+  \usepackage[utf8]{inputenc}
 \else
   \ifluatex
     \usepackage{fontspec}
     \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
   \else
+    \usepackage[russian]{babel}
     \usepackage[utf8]{inputenc}
   \fi
 \fi

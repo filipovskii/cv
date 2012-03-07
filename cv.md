@@ -1,43 +1,48 @@
-### Andrey Salomatin *Software Engineer*
+### Андрей Саломатин *Разработчик ПО*
 ##### 
 [+7 926 274 62 57](callto:+79262746257) |
 [skype: filipovskii_off](callto:filipovskii_off) |
-[filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Invitation%20for%20an%20interview) |
+[filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Интервью) |
 [github](https://github.com/filipovskii)
 
-### Career objective
-To utilize and extend my knowledge, experience and interest in software engineering, in a positive, flexible and comfortable work environment.
+### Цель
+Применять и расширять мои знания, опыт и интерес в сфере разработки программного обеспечения в позитивной, гибкой и комфортной обстановке.
 
-### Education
-*   `2004 - 2010` Moscow Technical University of  Communications and Informatics 
+### Образование
+*   `2004 - 2010`
 
-    Engineer degree. Faculty: Radio communication, Broadcasting, Television
+    Московский Технический Университет Связи и Информатики
 
-*   `10.2011 - 12.2011` Online courses, offered by Stanford University:
+    Инженер. Факультет: Радиосвязь, радиовещание и телевидение
+
+*   `10.2011 - 12.2011` 
+
+    Онлайн курсы, предложенные Stanford University:
     
     ["Introduction to Databases"](http://www.db-class.org/),  ["Machine Learning"](http://www.ml-class.org/), ["Introduction to Artificial Intelligence"](http://www.ai-class.com/)
 
-### Work experience
-*   `08.2011 - present`
+### Опыт работы
+*   `08.2011 - настоящее время`
 
-    Developer at *Algo inc.* (trading software development)
+    Разработчик в *Algo inc.* (Продукты для торговли на биржах)
 
-    -   Took part in development of *Trade Monitor*, FIX protocol data analysis tool. Used **Java** and **Coffeescript**. Among other things, I was able to design and implement a simple DSL for querying analyzed data.
-    -   Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with **29West** products.
+    - Принимал участие в разработке программы *Trade Monitor*, инструмента для анализа FIX траффика. Использовал **Java** и **Coffeescript**. Среди прочего мне удалось реализовать простой DSL для написание запросов к проанализированным данным.
+    -   Исправление багов и небольшие изменения для проекта *X41* - распределённой торговой платформе, написанной на **Java**.
 
-    **Toolset:** NIO, Elasticsearch, Jersey, Guice, Gson, ANTLR, Bootstrap by Twitter, Backbone.js, Require.js
+    **Инструменты:** NIO, Elasticsearch, Jersey, Guice, Gson, ANTLR, Bootstrap by Twitter, Backbone.js, Require.js, 29West
 
 *   `02.2010 - 07.2011`
-    Team leader at *Probusinessbank*
 
-    -   As a part of small team, designed and implemented *[Internet-banking system](http://www.e-life.ru/)* with lots of functions, including online payments, card and account management, internal messaging system.
-    -  Created a tool for managing payment receivers. Used **Java** with **Tapestry** framework and Sybase database.
+    Руководитель группы в *Пробизнесбанке*
 
-    **Toolset:**  ASP MVC, WCF, MSSQL, MySQL, Oracle, Sybase, SOAP, RPC, LINQ
+    -   В небольшой команде, мы разработали *['Электронный банк'](http://www.e-life.ru/)*. В системе реализовано большое количество функций, включая онлайн платежи, управление счетами и картами, система обмена сообщениями. Использовали **C#**.
+    -  Разработал инструмент для управления получателями онлайн платежей на **Java**.
 
-###   Programming languages
+    **Инструменты:**  ASP MVC, WCF, MSSQL, MySQL, Oracle, Sybase, SOAP, RPC, LINQ, Tapestry (Java)
 
-language    level     tools & frameworks
+### Языки программирования
+
+язык        уровень   инструменты
 ----------  --------  ------------------
 Java        expert    SE, Guice, Guava, Jersey, java.util.concurrent, NIO, NIO2
 Javascript  advanced  backbone.js, require.js, jQuery, Coffeescript
