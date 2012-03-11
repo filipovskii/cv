@@ -2,7 +2,7 @@
 ##### 
 [+7 926 274 62 57](callto:+79262746257) |
 [skype: filipovskii_off](callto:filipovskii_off) |
-[filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Интервью) |
+[filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Interview) |
 [github](https://github.com/filipovskii)
 
 ### Цель
