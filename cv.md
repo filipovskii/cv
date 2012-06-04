@@ -49,4 +49,4 @@ haskell     beginner
 
 ### Buzzwords
 
-ddd git opensource simplicity tdd ubuntu vim web
+domain-driven-development git opensource simplicity test-driven-development ubuntu vim web
