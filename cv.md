@@ -1,12 +1,9 @@
-### Андрей Саломатин *инженер-разработчик*
+### Андрей Саломатин *разработчик*
 ##### 
 [+7 926 274 62 57](callto:+79262746257) |
 [skype: filipovskii_off](callto:filipovskii_off) |
 [filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Interview) |
-[github](https://github.com/filipovskii)
-
-### Цель
-Применять и расширять свои знания, опыт и интерес в сфере разработки программного обеспечения в позитивной, гибкой и комфортной обстановке.
+[github.com/filipovskii](https://github.com/filipovskii)
 
 ### Образование
 *   `2004 - 2010` Московский Технический Университет Связи и Информатики
@@ -17,24 +14,24 @@
     
     ["Introduction to Databases"](http://www.db-class.org/),  ["Machine Learning"](http://www.ml-class.org/), ["Introduction to Artificial Intelligence"](http://www.ai-class.com/).
 
-### Опыт работы
+### Работа
 *   `08.2011 - 04.2012`
 
     Разработчик в *Algo inc.* (Продукты для торговли на биржах)
 
-    - Принимал участие в разработке программы *Trade Monitor*, инструмента для анализа FIX траффика. Использовал **Java** и **Coffeescript**. Среди прочего мне удалось реализовать простой DSL для написание запросов к проанализированным данным.
-    -   Исправлял баги и вносил небольшие изменения в проект *X41* (распределённая торговая платформа, написанная на **Java**).
+    - Принимал участие в разработке программы *Trade Monitor*, инструмента для анализа FIX траффика. Использовал **java** и **coffeescript**. Среди прочего мне удалось реализовать простой DSL для написание запросов к проанализированным данным.
+    -   Исправлял баги и вносил небольшие изменения в проект *X41* (распределённая торговая платформа, написанная на **java**).
 
-    **Инструменты:** nio elasticsearch jersey guice gson antlr bootstrap-by-twitter backbone.js require.js 29west
+    **Инструменты**: nio elasticsearch jersey guice antlr twitter-bootstrap backbone.js require.js 29west
 
 *   `02.2010 - 07.2011`
 
     Руководитель группы в *ОАО АКБ Пробизнесбанк*
 
-    -   В небольшой команде, мы разработали *['Электронный банк'](http://www.e-life.ru/)*. В системе реализовано большое количество функций, включая онлайн платежи, управление счетами и картами, система обмена сообщениями. Использовали **C#**.
-    -  Разработал инструмент для управления получателями онлайн платежей на **Java**.
+    -   В небольшой команде, мы разработали *['Электронный банк'](http://www.e-life.ru/)*. В системе реализовано большое количество функций, включая онлайн платежи, управление счетами и картами, система обмена сообщениями. Использовали **c#**.
+    -  Разработал инструмент для управления получателями онлайн платежей на **java**.
 
-    **Инструменты:**  asp-mvc wcf mssql mysql oracle sybase soap rpc linq tapestry (java web framework)
+    **Инструменты:**  asp-mvc wcf mssql mysql oracle sybase soap rpc linq tapestry(java)
 
 ### Языки программирования
 
@@ -42,11 +39,9 @@
 ----------  --------      ------------------
 java        expert        se guice guava jersey java.util.concurrent nio
 javascript  advanced      backbone.js require.js jquery coffeescript
-sql         advanced 
 c#          advanced      asp-mvc wcf linq
+sql         intermediate 
 python      intermediate  web.py nosetest
 haskell     beginner
 
-### Buzzwords
-
-domain-driven-development git opensource simplicity test-driven-development ubuntu vim web
+**Тэги**: agile test-driven domain-driven simplicity git opensource ubuntu web vim 
