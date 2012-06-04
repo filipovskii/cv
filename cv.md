@@ -25,7 +25,7 @@
     - Принимал участие в разработке программы *Trade Monitor*, инструмента для анализа FIX траффика. Использовал **Java** и **Coffeescript**. Среди прочего мне удалось реализовать простой DSL для написание запросов к проанализированным данным.
     -   Исправлял баги и вносил небольшие изменения в проект *X41* (распределённая торговая платформа, написанная на **Java**).
 
-    **Инструменты:** NIO, Elasticsearch, Jersey, Guice, Gson, ANTLR, Bootstrap by Twitter, Backbone.js, Require.js, 29West
+    **Инструменты:** nio elasticsearch jersey guice gson antlr bootstrap-by-twitter backbone.js require.js 29west
 
 *   `02.2010 - 07.2011`
 
@@ -34,14 +34,19 @@
     -   В небольшой команде, мы разработали *['Электронный банк'](http://www.e-life.ru/)*. В системе реализовано большое количество функций, включая онлайн платежи, управление счетами и картами, система обмена сообщениями. Использовали **C#**.
     -  Разработал инструмент для управления получателями онлайн платежей на **Java**.
 
-    **Инструменты:**  ASP MVC, WCF, MSSQL, MySQL, Oracle, Sybase, SOAP, RPC, LINQ, Tapestry (Java web framework)
+    **Инструменты:**  asp-mvc wcf mssql mysql oracle sybase soap rpc linq tapestry (java web framework)
 
 ### Языки программирования
 
-язык        уровень   инструменты
-----------  --------  ------------------
-Java        expert    SE, Guice, Guava, Jersey, java.util.concurrent, NIO, NIO2
-Javascript  advanced  backbone.js, require.js, jQuery, Coffeescript
-SQL         advanced    
-C#          advanced  ASP MVC, WCF, LINQ
-Python      beginner
+язык        уровень       инструменты
+----------  --------      ------------------
+java        expert        se guice guava jersey java.util.concurrent nio
+javascript  advanced      backbone.js require.js jquery coffeescript
+sql         advanced    
+c#          advanced      asp-mvc wcf linq
+python      intermediate  web.py nosetest
+haskell     beginner
+
+### Buzzwords
+
+ddd git opensource simplicity tdd ubuntu vim web
