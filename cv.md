@@ -44,4 +44,4 @@ sql         intermediate
 python      intermediate  web.py nosetest
 haskell     beginner
 
-**Тэги**: agile test-driven domain-driven simplicity git opensource ubuntu web vim 
+**Теги**: agile test-driven domain-driven simplicity git opensource ubuntu web vim 
