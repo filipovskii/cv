@@ -18,7 +18,7 @@
     ["Introduction to Databases"](http://www.db-class.org/),  ["Machine Learning"](http://www.ml-class.org/), ["Introduction to Artificial Intelligence"](http://www.ai-class.com/).
 
 ### Опыт работы
-*   `08.2011 - настоящее время`
+*   `08.2011 - 04.2012`
 
     Разработчик в *Algo inc.* (Продукты для торговли на биржах)
 
@@ -42,7 +42,7 @@
 ----------  --------      ------------------
 java        expert        se guice guava jersey java.util.concurrent nio
 javascript  advanced      backbone.js require.js jquery coffeescript
-sql         advanced    
+sql         advanced 
 c#          advanced      asp-mvc wcf linq
 python      intermediate  web.py nosetest
 haskell     beginner
