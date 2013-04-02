@@ -1,4 +1,4 @@
-### *Andrey Salomatin* Software Engineer
+### *Andrey Salomatin*
 ##### [filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=Invitation%20for%20an%20interview)
 
 ### Career objective
@@ -17,34 +17,35 @@ To utilize and extend my knowledge, experience and interest in software engineer
 
     Online courses, offered by Stanford University:
     
-    -   ["Introduction to Databases"](http://www.db-class.org/) (Score: 296 of 323)
+    -   ["Introduction to Databases"](http://www.db-class.org/)
 
-    -   ["Machine Learning"](http://www.ml-class.org/) (Questions: 78 of 80, Exercises: 800 of 800)
+    -   ["Machine Learning"](http://www.ml-class.org/)
     
-    -   ["Introduction to Artificial Intelligence"](http://www.ai-class.com/) (Basic track)
+    -   ["Introduction to Artificial Intelligence"](http://www.ai-class.com/)
 
 ### Work experience
-*   `08.2011 - present`
+*   `08.2011 - 04.2012`
 
     Developer at *Algo inc.* (trading software development)
 
-    1. Took part in development of *Trade Monitor*, FIX protocol data analysis tool. My part was written mostly in **Java** and **Coffeescript** and was responsible for:
+    Took part in development of *Trade Monitor*, FIX protocol data analysis tool. My part was written mostly in **Java** and **Coffeescript** and was responsible for:
+
       -   indexing and querying data (**NIO** and **elasticsearch**)
       -   providing REST API (**Jersey**, **Guice**, **Gson**)
       -   looking good (**bootstrap by twitter**) and functional (**backbone.js**, **require.js** and others).
 
       I was also able to design and implement (using **ANTLR**) a simple DSL for querying analyzed data.
 
-    2. Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with **29West** products.
+    Bug fixing and minor improvements for *X41* project - highly distributed stocks trading platform, written in **Java** with **29West** products.
 
 *   `02.2010 - 07.2011`
 
     Team leader at *Probusinessbank*
 
-    1.   As a part of small team, designed and implemented *[Internet-banking system](http://www.e-life.ru/)* with lots of functions, including online payments, card and account management, internal messaging system.
+    As a part of small team, designed and implemented *[Internet-banking system](http://www.e-life.ru/)* with lots of functions, including online payments, card and account management, internal messaging system.
     Project was written in **C#** (**ASP MVC** and **WCF**) and **Javascript**. Application interacts with many data stores (**MSSQL, MySQL, Oracle, Sybase**) using different protocols (**SOAP, RPC, LINQ**).
 
-    2.  Created a tool for managing payment receivers. Used **Java** with **Tapestry** framework and Sybase database.
+    Developed a tool for managing payment receivers. Used **Java** with **Tapestry** framework and Sybase database.
 
 ###   Programming languages
 
