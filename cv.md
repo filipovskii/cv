@@ -1,24 +1,35 @@
 ### *Andrey Salomatin*
-/ 
-[+7 926 274 62 57](callto:+79262746257) /
-[skype: filipovskii_off](callto:filipovskii_off) /
-[filipovskii.off@gmail.com](mailto:filipovskii.off@gmail.com?subject=CV) /
-[github](https://github.com/filipovskii) /
+
+<div style="text-align:center">
+<h4>
+  <a href="callto:+792627457">+7 926 274 62 57</a>
+/ <a href="callto:filipovskii_off">skype: filipovskii_off</a>
+/ <a href="mailto:filipovskii.off@gmail.com?subject=CV">
+    filipovskii.off@gmail.com
+  </a>
+/ <a href="https://github.com/filipovskii">github</a>
+ 
+</h4>
+</div>
 
 ### Education
-*   `2004 - 2010` Moscow Technical University of  Communications and
-    Informatics 
+*   **2004 - 2010**
+
+    Moscow Technical University of  Communications and Informatics 
 
     Engineer degree in *Radio communication, Broadcasting, Television*
 
-*   `10.2011 - 12.2011` Online courses, offered by Stanford University:
+*   **10.2011 - 12.2011**
+
+    Online courses, offered by Stanford University:
     
     ["Introduction to Databases"](http://www.db-class.org/),  ["Machine
     Learning"](http://www.ml-class.org/), ["Introduction to Artificial
     Intelligence"](http://www.ai-class.com/)
 
 ### Work experience
-*   `12.2012 - now`
+
+*   **12.2012 - now**
     
     Independent developer
 
@@ -26,16 +37,16 @@
         redis, angular.js etc.
 
 
-*   `07.2012 - 12.2012`
+*   **07.2012 - 12.2012**
     
     Developer at *Heymoose* (CPA affiliate marketing network)
 
     -   Developed backend for 
         [affiliate marketing network](http://heymoose.com).
 
-    **Tools**: Java, Jersey, Postgres.
+    `Java` `Jersey` `Postgres`
 
-*   `08.2011 - 04.2012`
+*   **08.2011 - 04.2012**
 
     Developer at *Algo inc.* (trading software)
 
@@ -45,10 +56,10 @@
     -   Bug fixing and minor improvements for *X41* project - highly
         distributed stocks trading platform, written in **Java**.
 
-    **Tools:** NIO, ElasticSearch, Jersey, Guice, Gson, ANTLR, Twitter
-    Bootstrap, CoffeeScript, Backbone.js, Require.js, 29West.
+    `NIO` `ElasticSearch` `Jersey` `Guice` `Gson` `ANTLR` `twitter
+    bootstrap` `CoffeeScript` `backbone.js` `require.js` `29West`
 
-*   `02.2010 - 07.2011`
+*   **02.2010 - 07.2011**
     Team leader at *Probusinessbank*
 
     -   As a part of small team, designed and implemented
@@ -57,8 +68,8 @@
         internal messaging system. Written in **C#**.
     -   Tool for managing payment receivers in **Java**.
 
-    **Tools:**  ASP MVC, WCF, MSSQL, MySQL, Oracle, Sybase, SOAP, RPC,
-    LINQ, Tapestry (Java web framework).
+    `ASP MVC` `WCF` `MSSQL` `MySQL` `Oracle` `Sybase` `SOAP`
+    `RPC` `LINQ` `Tapestry (Java web framework)`
 
 ### Tools overview
 
@@ -72,3 +83,5 @@ Python        | werkzeug
 SQL           | postgres, mysql
 NoSQL         | mongodb, couchdb, (redis)
 C#            | asp mvc, wcf, linq                                        
+Erlang        | *basics*
+Haskell       | *basics*
