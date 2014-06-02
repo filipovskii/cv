@@ -8,21 +8,21 @@
     filipovskii.off@gmail.com
   </a>
 / <a href="https://github.com/filipovskii">github</a>
- 
+
 </h4>
 </div>
 
 ### Education
 *   **2004 - 2010**
 
-    Moscow Technical University of  Communications and Informatics 
+    Moscow Technical University of  Communications and Informatics
 
     Engineer degree in *Radio communication, Broadcasting, Television*
 
 *   **10.2011 - 12.2011**
 
     Online courses, offered by Stanford University:
-    
+
     ["Introduction to Databases"](http://www.db-class.org/),  ["Machine
     Learning"](http://www.ml-class.org/), ["Introduction to Artificial
     Intelligence"](http://www.ai-class.com/)
@@ -30,7 +30,7 @@
 ### Work experience
 
 *   **12.2012 - now**
-    
+
     Independent developer
 
     -   Developing applications mostly using **node.js** with mongodb,
@@ -38,10 +38,10 @@
 
 
 *   **07.2012 - 12.2012**
-    
+
     Developer at *Heymoose* (CPA affiliate marketing network)
 
-    -   Developed backend for 
+    -   Developed backend for
         [affiliate marketing network](http://heymoose.com).
 
     `Java` `Jersey` `Postgres`
@@ -73,7 +73,7 @@
 
 ### Tools overview
 
-language      | tools & frameworks                                        
+language      | tools & frameworks
 -----------   | ------------------
 Java          | SE, java.util.concurrent, NIO, Android, etc
 JS            | CoffeeScript, jshint, q
@@ -82,6 +82,6 @@ JS (node.js)  | express
 Python        | werkzeug
 SQL           | postgres, mysql
 NoSQL         | mongodb, couchdb, (redis)
-C#            | asp mvc, wcf, linq                                        
+C#            | asp mvc, wcf, linq
 Erlang        | *basics*
 Haskell       | *basics*
