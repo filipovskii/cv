@@ -9,3 +9,9 @@
 бизнес требований.
 
 Результатами сотрудничества очень доволен.
+
+Andrey is a self-motivated person. He has extensive technical knowledge
+and is able to learn and adapt fast. Andrey is capable of assembling a
+team and managing it successfully.
+
+Very pleased with results of our cooperation!
