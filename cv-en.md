@@ -132,7 +132,7 @@
     </tr>
     <tr>
       <td>JS (browser)</td>
-      <td>angular.js, backbone.js, amd, grunt, bower, yeoman</td>
+      <td>react.js, angular.js, backbone.js, amd, grunt, bower, yeoman</td>
     </tr>
     <tr>
       <td>JS (node.js)</td>

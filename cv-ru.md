@@ -4,8 +4,8 @@
 <h6>
   <a href="callto:+792627457">+7 926 274 62 57</a>
 / <a href="callto:filipovskii_off">skype: filipovskii_off</a>
-/ <a href="mailto:filipovskii.off@gmail.com?subject=CV">
-    filipovskii.off@gmail.com
+/ <a href="mailto:hello@andreysalomatin.me?subject=CV">
+    hello@andreysalomatin.me
   </a>
 / <a href="https://github.com/filipovskii">github</a>
 / <a href="http://habrahabr.ru/users/filipovskii_off/topics/">habrahabr</a>
@@ -30,16 +30,24 @@
 
 <h6 style="text-align:center">Опыт работы</h6>
 
+*   **02.2014 - 04.2014**
+
+    Python Тренер в [SkillTrek](http://skilltrek.ru/) (обучение в IT)
+
+    Разработал тренинг "Ввдение в Python" и успешно обучил первую группу
+    студентов.
+
 *   **04.2013 - 09.2013**
 
     Программист в [Mindojo](http://mindojo.com) (онлайн образование)
 
-    - Создавал и поддерживал персонализированные онлайн платформы
-      для обучения. В частности [GMAT Tutor](http://gmat.economist.com)
-      для [Economist](http://www.economist.com).
+    Mindojo -- это умная платформа для обучения. С её помощью
+    преподаватели создают онлайн курсы, которые подстраиваются под
+    студентов по мере того как те пользуются системой.
 
-        Переписал систему, адаптировал её под произвольное количество
-        кампусов/курсов.
+    Работал над [MVP](http://mindojo.com) и улучшал существующий продукт
+    [The Economist GMAT Tutor](https://gmat.economist.com).
+
 
     `python` `django` `mysql` `mongodb` `backbone.js`
 
@@ -55,6 +63,10 @@
       рекламным кампаниям;
     - *Кабинет партнёра*. Статистика рекламных площадок.
 
+    Всё разработано с использованием node.js, express, angular.js и
+    mongodb. Таким образом валидация/прототипирование/имплементация новых
+    фич занимали минимальное количество времени. Разработка каждой системы
+    занимала от 2 до 6 недель.
 
     `node.js` `angular` `mongodb`
 
@@ -100,17 +112,17 @@
 
 <h6 style="text-align:center">Собственные проекты</h6>
 
+  * Организатор митапа <a href="www.moscowjs.ru">MoscowJS</a>;
   * <a href="www.whatdoyouwantforchristmas.net">What Do You Want For
-    Christmas</a> &mdash; служба доставки новогодних подарков.
-  * <a href="placesapp.net">Place's</a> &mdash; аудио гид, мобильное
-    приложение.
+    Christmas</a> &mdash; служба доставки новогодних подарков;
+  * <a href="placesapp.net">Place's</a> &mdash; аудио гид под Android.
 
 
 <table style="margin-top:20px">
   <thead>
     <tr>
       <td colspan=2 style="text-align:center">
-        <h6>Языки и фреймворки</h6>
+        <h6>Инструменты</h6>
       </td>
     </tr>
   </thead>
@@ -118,11 +130,11 @@
   <tbody>
     <tr>
       <td>JS</td>
-      <td>promises, websockets, coffee script</td>
+      <td>promises, websockets, coffeescript, phonegap</td>
     </tr>
     <tr>
       <td>JS (browser)</td>
-      <td>angular.js, backbone.js, AMD, yeoman</td>
+      <td>react.js, angular.js, backbone.js, amd, grunt, gulp</td>
     </tr>
     <tr>
       <td>JS (node.js)</td>
