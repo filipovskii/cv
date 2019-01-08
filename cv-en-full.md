@@ -1,48 +1,63 @@
 ## *Andrey Salomatin*
 
-<div style="text-align:center; padding-bottom: 1em;">
-<h6>
-  <a href="https://flpvsk.com">flpvsk.com</a>
-</h6>
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
 
-<h6>
-  <a href="callto:+4915731580548">+49 1573 158 05 48</a>
-/ <a href="callto:filipovskii_off">skype: filipovskii_off</a>
-/ <a href="mailto:hello@flpvsk.com?subject=CV">
-    hello@flpvsk.com
-  </a>
-</h6>
+<div style="flex-grow: 1; display: flex; height: 150px; flex-direction: column; justify-content: space-around">
+  <h4 style="margin-top: 0">
+    Tel: <a href="callto:+4915731580548">+49 1573 158 05 48</a>
+  </h4>
+  <h4 style="margin-top: 0">
+    Website: <a href="https://flpvsk.com">flpvsk.com</a>
+  </h4>
+  <h4 style="margin-top: 0">
+    Email: <a href="mailto:hello@flpvsk.com?subject=CV">hello@flpvsk.com</a>
+  </h4>
 </div>
 
-###### Education
+<div style="flex: 0 0 150px; align-self: flex-end; text-align: right">
 
-*   **2004 - 2010**
+![](./Andrey.png)
 
-    Moscow Technical University of Communications and
-    Informatics<br/>
-    Engineering degree in "Radio Communication,
-    Broadcasting, Television"
 
-*   **10.2011 - 12.2011**
+</div>
 
-    Online courses offered by Stanford University:<br/>
-    ["Introduction to Databases"](http://www.db-class.org/),  ["Machine
-    Learning"](http://www.ml-class.org/), ["Introduction to Artificial
-    Intelligence"](http://www.ai-class.com/)
+</div>
 
-###### Work
+
+#### Education
+
+**2004 - 2010**<br />
+Moscow Technical University of Communications and
+Informatics<br/>
+Engineering degree in "Radio Communications, Broadcasting & Television"
+
+#### Work
+
+*   **01.2018-now**<br/>
+    **Maker at [Polychops](https://polychops.com)
+    (Software for musicians, startup)**
+
+    A personal project with a goal to help live musicians practice more
+    and get more out of their practice.
+
+    I'm doing product research, design and development, as well as
+    managing contractors that work on marketing and sound design.
+
+    Polychops launched in September 2018.
+
 
 *   **10.2016-12.2017**<br/>
-    **Product Manager at [Productive Mobile](https://productivemobile.com)
-    (B2B software startup)**
+    **Product Manager at [Productive
+    Mobile](https://productivemobile.com), now
+    [Matterway](https://matterway.io) (B2B SaaS startup)**
 
     As a Product Manager I was making sure we're building the right thing.
 
-    I took over Product after being a senior engineer for two years. At the
-    time we have started doing pilots with customers, our platform was
-    covering about 30% of use cases and we have just undergone a major change
-    in organization's structure. After one year in product, here is what we've
-    achieved:
+    I took over Product after being a senior engineer for two years. At
+    that time we have started doing pilots with customers, our platform
+    was covering about 30% of use cases and we have just undergone a major
+    change in organization's structure. After one year in product, here is
+    what we've achieved:
 
     * 30% of DAX companies are paid customers or piloting with Productive
       Mobile;
@@ -71,10 +86,10 @@
     **Full-stack Javascript Developer at [Productive
     Mobile](https://productivemobile.com)**
 
-    * In a small team we've build the product from the ground up;
+    * In a small team we've built the product from the ground up;
 
     * As a senior member of the team, I helped set up processes and make
-      technical descisions. As a result we have received the highest
+      technical decisions. As a result, we have received the highest
       rating during a tech due diligence from an independent contractor;
 
     * Among other things I was responsible for hiring and onboarding
@@ -96,7 +111,7 @@
     Python trainer at [SkillTrek](http://skilltrek.ru/) (developer
     trainings)
 
-    As a freelancer, I've created and taught an "Intoduction to Python"
+    As a freelancer, I've created and taught an "Introduction to Python"
     course for QA engineers.
 
 *   **04.2013 - 09.2013**
@@ -104,7 +119,7 @@
     Full Stack Programmer at [Mindojo](http://mindojo.com) (online
     education)
 
-    Mindojo is a smart educational platform. It allows to build adaptive
+    Mindojo is a smart educational platform. It allows building adaptive
     online courses, that improve from student to student. I was
     responsible for building [MVP](http://mindojo.com) and implementing
     features for [The Economist GMAT Tutor](https://gmat.economist.com/).
@@ -141,7 +156,7 @@
 
     Full Stack Programmer at *Algo inc.* (trading software)
 
-    -   Took part in development of *Trade Monitor*, FIX protocol data
+    -   Took part in the development of *Trade Monitor*, FIX protocol data
         analysis tool. **Java** and **CoffeeScript**. Was able to design
         and implement a simple DSL for querying analyzed data;
     -   Support of *X41* project - highly
@@ -149,9 +164,9 @@
 -->
 
 *   **02.2010 - 07.2011**<br/>
-    **Team Leader, Internet Banking services at Probusinessbank**
+    **Team Lead, Internet Banking services at Probusinessbank**
 
-    - I've started working on the Internet Banking system alone, when the
+    - I've started working on the Internet Banking system alone when the
       person responsible for it got promoted. Over two years we have
       gathered a strong team of five talented people across two offices in
       different cities. I was responsible for managing the work of the
@@ -159,28 +174,33 @@
 
     - Together we have designed and implemented a new version of the
       system with features like online payments, card and account
-      management, internal messaging system and many others.
+      management, internal messaging system and many others;
 
     - The services infrastructure that we've built in the process became a
       basis for many other internal and customer-facing applications,
       including our Android and iOS apps.
 
-###### Noteworthy side projects
+#### Side projects
 
 <div class="sideprojects">
 
-* Helped revive and was running <a href="www.moscowjs.ru">MoscowJS</a>
-  meetup for 3 years;
+* I [blog](https://medium.com/@flpvsk) and give talks on the topics of
+  Software Development, System Thinking and Management;
 
 * I make <a href="https://codepodcast.com/about">Code Podcast</a>. It's
-  like Planet Money for developers;
+  like Planet Money, but for developers;
 
-* Together with friends we've made an international developer converence
-  <a href="http://frontend-union.co/">Frontend Union</a>.
+* I was one of the organizers and helped grow
+  <a href="www.moscowjs.ru">MoscowJS</a> to become the largest offline
+  frontend community in Russia;
 
-* I was one of the original hosts of <a
-  href="https://radiojs.ru">RadioJS</a>. The podcast reached the second
-  place on iTunes amongst tech podcasts in Russian in 2016.
+* Together with friends we made an international developer conference
+  <a href="http://frontend-union-conf.github.io/func2016/">Frontend Union</a>;
+
+* I was one of the original hosts of
+  <a href="https://radiojs.ru">RadioJS</a>.
+  The second most popular tech podcast in Russian iTunes in 2016.
+
 </div>
 
 

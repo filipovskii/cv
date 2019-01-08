@@ -1,5 +1,4 @@
 body {
-  -webkit-font-smoothing: subpixel-antialiased;
   font: "Source Sans Pro", Verdana, sans-serif;
   font-size: 100%;
   margin: 0
@@ -23,7 +22,7 @@ h2 {
   font-size: 2.7143em;
   line-height: 1em;
   margin-bottom: .875em;
-  margin-top: .875em;
+  margin-top: .075em;
 }
 
 h1, h2, h3 {
@@ -371,6 +370,15 @@ dt {
   font-weight: 700
 }
 
+img {
+  width: 150px;
+  box-shadow: 0px 0px 5px #303030;
+}
+
+#wrapper {
+  padding-top: 4px !important;
+}
+
 @media print {
   img, table, figure {
     page-break-inside: avoid
@@ -574,7 +582,7 @@ li li:nth-child(n+1) {
     width: auto;
     border: 0;
     margin: 0;
-    padding: 0;
+    padding: 0 !important;
     float: none;
     -moz-box-shadow: none !important;
     -webkit-box-shadow: none !important;
